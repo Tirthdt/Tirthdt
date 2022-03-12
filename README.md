@@ -11,6 +11,3 @@ Angular, React
 
 
 
-<!---
-Tirthdt/StoryBooks is a ✨ special ✨ repository.
-- -->
